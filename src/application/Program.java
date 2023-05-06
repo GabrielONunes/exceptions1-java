@@ -40,7 +40,7 @@ public class Program {
 		}
 		
 		catch(ParseException e) {
-			System.out.println("Invalid date format");
+			System.out.println("Invalid date format!");
 		}
 		
 		catch (DomainException e) {
